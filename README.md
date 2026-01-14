@@ -1,0 +1,68 @@
+# CHANMINA – WORK HARD
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+God 今 good spot
+私won't stop
+あいつにはわかんないよね
+How to get 良いjob
+そんなのねぇよ
+2025
+争う暇あるんだったら
+働けばいいじゃん
+みんなしすぎ勘違い
+何にもせずに羨ましい
+私もアレが欲しい
+What can I do now
+WORK HARD
+甘くない人生は
+目を覚ましなよnow
+何期待してんのhow
+自分の人生自分でやって
+work work work work work work
+I love it この 仕事
+work work work work work work
+大好き living for job
+Girl I told you that I'm growing
+Girl made このおっきいbuilding
+Yo what? Oh my god are you jelly?
+しらねぇだろmy 歴史
+お前に嫉妬する価値なし
+You look fancy
+そりゃそうかかってるから money
+お前らじゃ追いつけない 美 美
+私はget money, get body, get real
+なんかしてるやつより
+何もしてないやつが有利
+そんな奴ほどなぜか口開いたら
+Ew ew ew 辛い辛い辛い
+みんなしすぎ勘違い
+何にもせずに羨ましい
+私もアレが欲しい
+What can I do now
+WORK HARD
+甘くない人生は
+目を覚ましなよnow
+何期待してんのhow
+弱者救済?なんでなんで?
+work work work work work work
+I love it この 仕事
+work work work work work work
+大好き living for job
+大好き 大好き 大好き
+大好き 大好き 大好き
+すぐパワハラってさ
+パワーない君はどうなん
+あぁ悪くないって言いたいんだ
+こっちも好きで強くなったわけじゃないからさ
+甘くない人生は
+目を覚ましなよnow
+何期待してんのhow
+自分の人生自分でやって
+work work work work work work
+I love it この 仕事
+work work work work work work
+大好き living for job
+work work
+```
