@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "WORK HARD",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-01-14T08:08:52.673937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Work Hard",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/01_Work_Hard_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Work Hard",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/02_Work_Hard_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Work Hard (East End Remix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/03_Work_Hard_(East_End_Remix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Work Hard - East End Remix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/04_Work_Hard_-_East_End_Remix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Work Hard / Play Hard",
+      "artist": "Palace Music",
+      "has_synced": true,
+      "path": "select/05_Work_Hard___Play_Hard_Palace_Music.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Work Hard\u0000Play Hard",
+      "artist": "Palace Music",
+      "has_synced": true,
+      "path": "select/06_Work_Hard\u0000Play_Hard_Palace_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Work Hard, Play Hard",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/07_Work_Hard,_Play_Hard_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Work Hard, Play Hard",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/08_Work_Hard,_Play_Hard_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Work Hard, Play Hard",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/09_Work_Hard,_Play_Hard_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Work Hard",
+      "artist": "Migos",
+      "has_synced": true,
+      "path": "select/10_Work_Hard_Migos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Work Hard, Play Hard",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/11_Work_Hard,_Play_Hard_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Work Hard, Play Harder",
+      "artist": "Gretchen Wilson",
+      "has_synced": false,
+      "path": "select/12_Work_Hard,_Play_Harder_Gretchen_Wilson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WORK HARD",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_WORK_HARD_ちゃんみな.txt"
+    }
+  ]
+}
